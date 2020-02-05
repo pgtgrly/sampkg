@@ -12,7 +12,7 @@ tests_require = ['pytest', 'pytest-cov', 'mock']
 setup(
     name='sampkg',
     version=__version__,
-    description='A sample Python Ppackage',
+    description='A sample Python package',
     author='Pranav Garg',
     author_email='pranavgarg@gmail.com',
     url=url,
