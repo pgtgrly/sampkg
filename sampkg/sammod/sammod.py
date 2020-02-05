@@ -1,7 +1,7 @@
 import numpy as np
 
 
-class Samclass:
+class Samclass(object):
     counter = 0
 
     def __init__(self, x="hello"):
